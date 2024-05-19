@@ -7,9 +7,9 @@ This is a personal project to scrape flight, hotel, and ticket prices from the U
 
 - [Description](#-description)
 - [Requirements](#-requirements)
-- [Setup](#-setup)
+- [Setup](#setup)
 - [Usage](#-usage)
-- [Configuration](#-configuration)
+- [Configuration](#configuration)
 
 
 <br></br>
@@ -31,6 +31,7 @@ This is a personal project to scrape flight, hotel, and ticket prices from the U
 - `concurrent.futures` module
 
 <br></br>
+<a name="setup"></a>
 ## ⚙️ Setup
 
 1. **Clone the Repository**:
@@ -69,6 +70,7 @@ This is a personal project to scrape flight, hotel, and ticket prices from the U
     - **5**: Exit
 
 <br></br>
+<a name="configuration"></a>
 ## 🛠️ Configuration
 
 Customize your search parameters by editing the `config.py` file. For example, changing the range of days, months, and nights to be checked:
